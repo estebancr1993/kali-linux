@@ -8,6 +8,7 @@ Aquí trataremos los siguientes apartados:
 4. Ejemplo1: herramienta1
 5. Ejemplo2: herramienta2
 
+----------------------------------------
 
 ## Referencias:
 A. [wikipedia](https://es.wikipedia.org/wiki/Kali_Linux)
