@@ -20,4 +20,4 @@ B. [Exploid](https://www.exploit-db.com/)
 D. [Metasploit Unleashed](https://www.offensive-security.com/metasploit-unleashed/)
 
 
-![imagen](https://www.linuxenespañol.com/wp-content/uploads/2019/02/C%C3%B3mo-instalar-Kali-Linux-en-VirtualBox.jpeg)
+![imagen](https://www.tutorialspoint.com/kali_linux/images/kali-linux.jpg)
