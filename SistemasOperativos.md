@@ -15,3 +15,5 @@ B. [Debian](https://www.debian.org/releases/stretch/mips/ch01s03.html.es)
 
 
 ![debianIMG](https://www.muycomputer.com/wp-content/uploads/2018/03/Debian_MicrosoftStore.jpg)
+
+[Inicio](https://github.com/estebancr1993/kali-linux/blob/master/README.md)
