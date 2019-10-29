@@ -2,7 +2,8 @@
 
 Kali Linux trae preinstalados más de 600 programas incluyendo **Nmap (un escáner de puertos), Wireshark (un sniffer), John the Ripper (un crackeador de passwords) y la suite Aircrack-ng (software para pruebas de seguridad en redes inalámbricas)**. Kali puede ser usado desde un Live CD, live-usb y también puede ser instalada como sistema operativo principal.
 
-^*Todos los paquetes de Kali están **firmados por cada desarrollador** que lo compiló y publicó. A su vez, los encargados de mantener los repositorios también firman posteriormente los paquetes utilizando **GNU Privacy Guard**.* 
+_Todos los paquetes de Kali están firmados por cada desarrollador que lo compiló y publicó. A su vez, los encargados de mantener los repositorios también firman posteriormente los paquetes utilizando GNU Privacy Guard._
+
 ----------------------------------------
 
 ## Referencias:
