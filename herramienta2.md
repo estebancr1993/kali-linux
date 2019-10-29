@@ -7,9 +7,11 @@ Kismet funciona con interfaces *Wi-Fi, interfaces Bluetooth, algunos hardware SD
 -Funciona en Linux, OSX y, hasta cierto punto, Windows 10 bajo el marco WSL.
 
 
-[Descargar](https://www.kismetwireless.net/downloads/)
-[Configurar](https://www.kismetwireless.net/docs/readme/config_files/)
-[Inicio sesión](https://www.kismetwireless.net/docs/readme/logging/)
+- [Descargar](https://www.kismetwireless.net/downloads/)
+
+- [Configurar](https://www.kismetwireless.net/docs/readme/config_files/)
+
+- [Inicio sesión](https://www.kismetwireless.net/docs/readme/logging/)
 
 ----------------------------------------
 
