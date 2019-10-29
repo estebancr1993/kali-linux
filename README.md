@@ -6,7 +6,7 @@ Aquí trataremos los siguientes apartados:
 2. [Sistemas Operativos en el que está basado kali-linux](https://github.com/estebancr1993/kali-linux/blob/master/SistemasOperativos.md)
 3. [Herramientas de kali-linux](https://github.com/estebancr1993/kali-linux/blob/master/Herramientas.md)
 4. [Ejemplo1: herramienta1](https://github.com/estebancr1993/kali-linux/blob/master/herramienta1.md)
-5. Ejemplo2: herramienta2
+5. [Ejemplo2: herramienta2](https://github.com/estebancr1993/kali-linux/blob/master/herramienta2.md)
 
 ----------------------------------------
 
